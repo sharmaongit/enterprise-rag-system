@@ -1,0 +1,5 @@
+# Reference values; runtime configuration is currently environment-variable based.
+app_env: development
+host: 127.0.0.1
+port: 8000
+require_api_key: false

@@ -1,0 +1,2 @@
+# Smoke evaluation cases live in scripts/run_evaluation.py.
+# Add a labelled dataset with expected answers before using metrics for release gates.

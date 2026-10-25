@@ -1,0 +1,3 @@
+top_k: 8
+crag_max_retries: 2
+semantic_index: tfidf

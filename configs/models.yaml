@@ -1,0 +1,5 @@
+# Reference values; the optional provider reads environment variables.
+generation_provider: ollama
+ollama_model: qwen3.5:4b
+enable_ollama: false
+embedding_provider: tfidf
